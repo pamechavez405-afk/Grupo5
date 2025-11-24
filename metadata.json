@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Asistente de Factoreo ",
+  "description": "Una aplicación web interactiva que utiliza IA para identificar, resolver y explicar varios casos de factoreo de polinomios, incluyendo factor común, diferencia de cuadrados y trinomios. También genera ejemplos para practicar.",
+  "requestFramePermissions": []
+}
